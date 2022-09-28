@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar com/github/goitproject/bot/AppLauncher.java
+web: java -jar com/github/goitproject/bot/AppLauncher-1.0.jar
