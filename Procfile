@@ -1,1 +1,2 @@
-bot: java -jar src/main/java/com/github/goitproject/bot/AppLauncher.java
+web: java -jar -Dport=$PORT src/main/java/com/github/goitproject/bot/AppLauncher.java
+
