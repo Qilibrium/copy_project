@@ -1,1 +1,1 @@
-web: java -jar gradle/wrapper/gradle-wrapper.jar
+bot: java -jar gradle/wrapper/gradle-wrapper.jar
