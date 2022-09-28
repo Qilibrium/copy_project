@@ -2,6 +2,7 @@ plugins {
     id 'java'
 }
 
+
 compileJava {
     sourceCompatibility = '11'
     targetCompatibility = '11'
@@ -13,6 +14,8 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
+
+
 
 dependencies {
     implementation 'org.telegram:telegrambots:6.1.0'
@@ -33,7 +36,10 @@ dependencies {
         systemProperty "file.encoding", "utf-8"
         useJUnitPlatform()
     }
+
+
 }
+
 
 test {
     useJUnitPlatform()
