@@ -1,0 +1,3 @@
+log-level: ERROR
+modules:
+  - com.github.goitproject.bot.AppLauncher
