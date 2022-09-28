@@ -1,1 +1,1 @@
-bot: java -jar build/libs/TelegramBot.java
+bot: java -jar src/java/com/github/goitproject/bot/TelegramBot.java
