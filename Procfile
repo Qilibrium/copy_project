@@ -1,1 +1,1 @@
-web: java -jar com/github/goitproject/bot/AppLauncher-1.0.jar
+web: java -jar gradle/wrapper/gradle-wrapper.jar
