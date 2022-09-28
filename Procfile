@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp build/staging:build/staging/* com.github.goitproject.bot.Main
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar com/github/goitproject/bot/AppLauncher.jar
