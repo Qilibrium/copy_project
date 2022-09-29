@@ -1,1 +1,1 @@
-bot: java -jar src/main/java/com/github/goitproject/bot/AppLauncher.java
+bot: java -jar out/artifacts/ratpack_jar/ratpack.jar
