@@ -1,1 +1,1 @@
-bot: java -jar gradle/wrapper/gradle-wrapper.jar
+bot: java -jar src/main/java/com/github/goitproject/bot/AppLauncher.java
