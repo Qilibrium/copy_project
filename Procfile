@@ -1,1 +1,1 @@
-bot: java -jar src/main/java/com.github.goitproject.bot/AppLauncher.java
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar build/libs/heroku-demo-0.0.1-SNAPSHOT.jar
